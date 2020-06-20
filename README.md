@@ -1,5 +1,7 @@
 # App 04: Frases de Braking Bad desde una API
 
+<img src="./img-app/img-app.jpg" height="500">
+
 <img src="./img-app/img-01.png" height="300">
 
 <img src="./img-app/img-02.png" height="300">
